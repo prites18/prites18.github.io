@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Pritesh Ranjan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Python Developer and Data Science enthusiast."
+  bio    : "Data Science enthusiast."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
