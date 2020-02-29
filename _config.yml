@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PRITESH RANJAN
+title: Learn data science
 email: pranjna341@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data Science Portfolio.
@@ -21,6 +21,8 @@ twitter_username: itsprites
 github_username: pritesh-ranjan
 minimal_mistakes_skin: default
 search: true
+tagline: Learn data science
+description: A blog to learn data science and machine learning
 
 # Build settings
 markdown: kramdown
@@ -54,7 +56,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
+  
 author:
   name   : "Pritesh Ranjan"
   avatar : "/assets/images/bio-photo.jpg"
