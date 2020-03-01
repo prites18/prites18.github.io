@@ -1,9 +1,13 @@
 ---
 permalink: /about/
 title: "About"
-description: A blog to learn data science and machine learning
+description: A blog where I write about every thing that I learn about Data Science and Machine Learning
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Aspiring Data Scientist with a demonstrated history of working in the information technology and services industry. Expert in Python programming, and skilled in Computer Science, Data Science, Data Visualization, Data Mining, Natural Language Processing. 
+
+# What this blog is about
+
+So, basically I decided to write something on this blog when ever I learn some thing new related to Python programming or Machine Learning. This will allow me to share my knowledge with everyone and improve my learning process.
