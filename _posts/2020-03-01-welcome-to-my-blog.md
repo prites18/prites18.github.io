@@ -12,7 +12,7 @@ description: "Welcome to my blog!!"
 
 I love to code in Python and in this blog I am going to share everything that I am learning about Data Science and Machine Learning. 
 
-So recently I was working on I had built a script that detected discrepancies between similar images and I decided to use PySide2 for the GUI interface. When I tried building an executable file, it just didn't work out. I looked everywhere, from GitHub to StackOverflow, PySide2 documentation, tried setting up my development environment multiple times, but nothing worked. Finally one of the Python development environment configurations clicked and I was able to build my executable. If you too are facing a similar issue with PySide2, please check out my GitHub repository where I have placed detailed instructions on how to do it correctly.
+So recently I was working on I had built a script that detected discrepancies between similar images and I decided to use PySide2 for the GUI interface. When I tried building an executable file, it just didn't work out. I looked everywhere, from GitHub to StackOverflow, PySide2 documentation, tried setting up my development environment multiple times, but nothing worked. Finally one of the Python development environment configurations clicked and I was able to build my executable. If you too are facing a similar issue with PySide2, please check out my [GitHub gist](https://gist.github.com/pritesh-ranjan/e2956859f60788755ac44105dffac839) where I have placed detailed instructions on how to do it correctly.
 
 There are many times when we face a programming problem, but we cannot find a solution in any blog or even in StackOverflow. So this is also a secondary reason why I am writing this blog.
 
